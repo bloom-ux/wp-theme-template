@@ -14,5 +14,9 @@
     "postcss-loader": "^8.1.1",
     "sass": "^1.83.4",
     "sass-loader": "^16.0.4"
+  },
+  "scripts": {
+    "build": "encore production",
+    "start": "encore dev --watch"
   }
 }
